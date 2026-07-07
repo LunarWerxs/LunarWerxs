@@ -8,10 +8,10 @@
 </div>
 
 <p align="center">
-  I build <b>AI-powered tools and developer products</b> — small, sharp utilities that fix a real annoyance, plus larger platforms. Everything here is shipped, not a demo. 🌙
+  We build <b>AI-powered tools and developer products</b> — small, sharp utilities that fix a real annoyance, plus larger platforms. Everything here is shipped, not a demo. 🌙
 </p>
 
-## 🚀 What I build
+## 🚀 What we build
 
 <table>
   <tr>
