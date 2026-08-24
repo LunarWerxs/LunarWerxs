@@ -72,6 +72,11 @@ No MCP client? Same answers over plain HTTP at
 and the whole table at [`/tailwind-canonical.json`](https://lunarwerx.com/tailwind-canonical.json).
 Details: [lunarwerx.com/mcp.md](https://lunarwerx.com/mcp.md)
 
+Listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=lunarwerx)
+as `com.lunarwerx/lunarwerx`, and from there on
+[Smithery](https://smithery.ai/servers/lunarwerx/lunarwerx) and
+[Glama](https://glama.ai/mcp/connectors/com.lunarwerx/lunarwerx).
+
 ## ❓ Questions people actually ask
 
 <details>
@@ -100,11 +105,27 @@ you turn it on.
 <details>
 <summary><b>How do these tools work with AI agents?</b></summary>
 
-Several are built for agents as first-class users, not just people. DevWebUI and AgentHydra
-expose MCP servers so an agent can drive the same daemon a human clicks. RepoYeti's
-`repoyeti mcp` exposes local repos plus guarded remote commit and sync, and publishes its
-full HTTP API at `GET /api/openapi.json`. NormWind ships as a GitHub Action so it can run
-unattended in CI. And the studio itself runs the public MCP server above.
+Several are built for agents as first-class users, not just people. **Five of the products
+above ship an MCP server of their own**, all of them local, free, and needing no account:
+
+- **DevWebUI** and **AgentHydra** expose their whole daemon over MCP, so an agent drives
+  exactly what a human clicks. AgentHydra also lets an agent ask which account it is
+  running as and how much quota is left before it fans out work.
+- **RepoYeti**'s `repoyeti mcp` exposes local repos plus guarded remote commit and sync,
+  and publishes its full HTTP API at `GET /api/openapi.json`.
+- **RēDesign**'s `bun run src/index.ts mcp` lets an agent queue and compare redesign runs.
+- **SageThumbs 2K**'s `st2k --mcp` renders a thumbnail for a RAW, PSD, HEIC or video file
+  Windows itself cannot read, and its `view` tool decodes any supported format to a PNG
+  block so an agent can actually *see* the file.
+
+**NormWind** ships as a GitHub Action so it can run unattended in CI. And the studio itself
+runs the public MCP server above.
+
+One more, not in the table because it has no public repo: **Connections Studio** exposes a
+hosted MCP endpoint at `https://connections.icu/v1/mcp` that gives an assistant scoped reach
+into accounts you have already connected (AWS, Cloudflare, GitHub, Stripe, Supabase and
+more) instead of asking you to paste keys. Unlike everything above it is not anonymous: it
+wants a Connections API key or an OAuth token, and the account is free.
 </details>
 
 <div align="center">
