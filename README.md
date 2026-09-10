@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d33,50:15304d,100:2e5f92&height=230&section=header&text=LunarWerx%20Studios&fontSize=48&fontAlignY=40&fontColor=ffffff&desc=Digital%20Dreams%20and%20AI%20Solutions&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="LunarWerx Studios: digital dreams and AI solutions">
+  <a href="https://lunarwerx.com"><img src="icons/hero.svg" width="100%" alt="LunarWerx Studios: digital dreams and AI solutions"></a>
 </div>
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/lunarwerx.com-15304D?style=for-the-badge&logo=safari&logoColor=white)](https://lunarwerx.com)
-[![16 products shipped](https://img.shields.io/badge/shipped-16%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
+[![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
+[![14 products shipped](https://img.shields.io/badge/shipped-14%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
 [![All free](https://img.shields.io/badge/price-free-2ea44f?style=for-the-badge)](https://lunarwerx.com/pricing.md)
 [![MCP server](https://img.shields.io/badge/MCP-server%20live-6E56CF?style=for-the-badge)](https://lunarwerx.com/mcp)
+[![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -32,8 +34,6 @@ and most of it runs on your machine rather than ours. 🌙
 | <img src="icons/agenthydra.svg" width="26" alt=""> | **AgentHydra** | Every local AI coding session in one tab, Claude Code, Codex and OpenCode, with a schedulable queue and isolated Claude Desktop instances. | <a href="https://agenthydra.lunarwerx.com/" title="AgentHydra website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/AgentHydra" title="AgentHydra source"><img src="icons/_code.svg" width="17" alt="Source"></a> |
 | <img src="icons/redesign.svg" width="26" alt=""> | **RēDesign** | Drop in a UI screenshot and get a browsable wall of self-contained HTML redesigns from ten AI models at once. | <a href="https://redesign.lunarwerx.com/" title="RēDesign website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/ReDesign" title="RēDesign source"><img src="icons/_code.svg" width="17" alt="Source"></a> |
 | <img src="icons/devwebui.svg" width="26" alt=""> | **DevWebUI** | A GUI *and* an MCP control plane for the dev servers already running on your machine. Humans click, agents automate the same daemon. | <a href="https://devwebui.lunarwerx.com/" title="DevWebUI website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/DevWebUI" title="DevWebUI source"><img src="icons/_code.svg" width="17" alt="Source"></a> |
-| <img src="icons/vsclaudefix.svg" width="26" alt=""> | **vsclaudefix** | Patches the Claude Code VS Code extension: a persistent side-by-side session pane, pin/star/archive, filters, live status dots. | <a href="https://github.com/LunarWerxs/vsclaudefix" title="vsclaudefix source"><img src="icons/_code.svg" width="17" alt="Source"></a> |
-| <img src="icons/vscodexfix.svg" width="26" alt=""> | **vscodexfix** | Patches the ChatGPT/Codex VS Code extension: right-click rename/pin/star, a full-height task list, workspace grouping, working chat search. | <a href="https://github.com/LunarWerxs/vscodexfix" title="vscodexfix source"><img src="icons/_code.svg" width="17" alt="Source"></a> |
 
 ## 🛠 Developer tools
 
@@ -55,6 +55,17 @@ and most of it runs on your machine rather than ours. 🌙
 | <img src="icons/vectormojo.svg" width="26" alt=""> | **VectorMojo** | Converts design files to clean SVG entirely inside your browser: PSD, PSB, PDF, Illustrator AI, EPS, PNG, JPEG. No upload step. | <a href="https://vectormojo.lunarwerx.com/" title="VectorMojo website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/VectorMojo" title="VectorMojo source"><img src="icons/_code.svg" width="17" alt="Source"></a> |
 | <img src="icons/ytsort.png" width="26" alt=""> | **YTSort** | Sorts any YouTube playlist you own by video length, shortest or longest first, in seconds. Userscript plus Chrome extension. | <a href="https://ytsort.lunarwerx.com/" title="YTSort website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/YTSort" title="YTSort source"><img src="icons/_code.svg" width="17" alt="Source"></a> |
 | <img src="icons/watcharr.svg" width="26" alt=""> | **IMDb Watcharr** | Turns a public IMDb watchlist into a Radarr RSS feed and a Sonarr custom list, so your *arr stack picks up the same titles. | <a href="https://watcharr.lunarwerx.com" title="IMDb Watcharr website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/IMDBWatcharr" title="IMDb Watcharr source"><img src="icons/_code.svg" width="17" alt="Source"></a> |
+
+## 💬 Community
+
+<div align="center">
+
+<a href="https://discord.gg/PsWpeNUzhk"><img src="https://img.shields.io/badge/Join%20the%20LunarWerx%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4" alt="Join the LunarWerx Discord"></a>
+
+Questions, bug reports, feature ideas, or just showing what you built with these.<br>
+Every product has its own channel, and the people who wrote them are in there.
+
+</div>
 
 ## 🔌 For AI agents
 
@@ -83,8 +94,8 @@ as `com.lunarwerx/lunarwerx`, and from there on
 <summary><b>What does LunarWerx software cost?</b></summary>
 
 Nothing. Every product above is free to download and use. Most are MIT-licensed open
-source; SageThumbs 2K is source-available under PolyForm Noncommercial, and YTSort is
-GPL-2.0.
+source; SageThumbs 2K and RepoYeti are source-available under PolyForm Noncommercial, and
+YTSort is GPL-2.0.
 
 A few tools call a third-party AI or speech API, including RepoYeti's Smart Commit,
 RēDesign and QuickDictate. Those are **bring-your-own-key**: you supply your own provider
@@ -128,10 +139,18 @@ more) instead of asking you to paste keys. Unlike everything above it is not ano
 wants a Connections API key or an OAuth token, and the account is free.
 </details>
 
+<details>
+<summary><b>Where do I ask something that isn't a bug?</b></summary>
+
+The [Discord](https://discord.gg/PsWpeNUzhk). Every "New issue" page on these repos also
+links there, so a question never has to wear a bug report's clothes. Real bugs are still
+best as issues on the product's own repo, where they get tracked and closed.
+</details>
+
 <div align="center">
 
 **[lunarwerx.com](https://lunarwerx.com)** is the full product directory.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e5f92,50:15304d,100:0b1d33&height=120&section=footer" width="100%" alt="">
+<img src="icons/footer.svg" width="100%" alt="">
 
 </div>
