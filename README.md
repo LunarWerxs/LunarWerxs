@@ -6,10 +6,11 @@
 
 [![Website](https://img.shields.io/badge/lunarwerx.com-15304D?style=for-the-badge&logo=safari&logoColor=white)](https://lunarwerx.com)
 [![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
+[![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
+<br>
 [![14 products shipped](https://img.shields.io/badge/shipped-14%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
 [![All free](https://img.shields.io/badge/price-free-2ea44f?style=for-the-badge)](https://lunarwerx.com/pricing.md)
 [![MCP server](https://img.shields.io/badge/MCP-server%20live-6E56CF?style=for-the-badge)](https://lunarwerx.com/mcp)
-[![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
