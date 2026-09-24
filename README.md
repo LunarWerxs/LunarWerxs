@@ -168,10 +168,10 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td width="68"><a href="https://vectormojo.lunarwerx.com/" title="VectorMojo website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/VectorMojo" title="VectorMojo source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/VectorMagik"><img src="icons/vectormagik.svg" width="65" alt="VectorMagik"></a></td>
+<td width="93" height="90" align="center"><a href="https://vectormagik.lunarwerx.com/"><img src="icons/vectormagik.svg" width="65" alt="VectorMagik"></a></td>
 <td><b>VectorMagik</b></td>
-<td>Turns logos, artwork, pixel art and photos into clean SVG, PDF or EPS, offline on Windows, with a node editor to finish by hand.</td>
-<td width="68"><a href="https://github.com/LunarWerxs/VectorMagik" title="VectorMagik source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+<td>Turns logos, artwork, pixel art and photos into clean SVG, PDF or EPS, offline on Windows or right in your browser, with a node editor to finish by hand.</td>
+<td width="68"><a href="https://vectormagik.lunarwerx.com/" title="VectorMagik website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/VectorMagik" title="VectorMagik source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/YTSort"><img src="icons/ytsort.png" width="65" alt="YTSort"></a></td>
