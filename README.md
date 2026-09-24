@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lunarwerx.com"><img src="icons/mission-hero.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 21 payloads in orbit, all systems nominal."></a>
+  <a href="https://lunarwerx.com"><img src="icons/mission-hero-22.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 22 payloads in orbit, all systems nominal."></a>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
 [![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
 <br>
-[![21 products shipped](https://img.shields.io/badge/shipped-21%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
+[![22 products shipped](https://img.shields.io/badge/shipped-22%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
 [![Free for personal use](https://img.shields.io/badge/price-free_for_personal_use-2ea44f?style=for-the-badge)](https://lunarwerx.com/pricing.md)
 [![MCP server](https://img.shields.io/badge/MCP-server%20live-6E56CF?style=for-the-badge)](https://lunarwerx.com/mcp)
 
@@ -168,6 +168,12 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td width="68"><a href="https://vectormojo.lunarwerx.com/" title="VectorMojo website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/VectorMojo" title="VectorMojo source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
+<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/VectorMagik"><img src="icons/vectormagik.svg" width="65" alt="VectorMagik"></a></td>
+<td><b>VectorMagik</b></td>
+<td>Turns logos, artwork, pixel art and photos into clean SVG, PDF or EPS, offline on Windows, with a node editor to finish by hand.</td>
+<td width="68"><a href="https://github.com/LunarWerxs/VectorMagik" title="VectorMagik source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+</tr>
+<tr>
 <td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/YTSort"><img src="icons/ytsort.png" width="65" alt="YTSort"></a></td>
 <td><b>YTSort</b></td>
 <td>Sorts any YouTube playlist you own by video length, shortest or longest first, in seconds. Userscript plus Chrome extension.</td>
@@ -253,7 +259,7 @@ MIT-licensed open source, free for any use including commercial work, and YTSort
 Two of the apps are services rather than downloads: Connections has a free plan with paid Pass
 upgrades, and Accredited Capitalists is an invite-only membership.
 
-SageThumbs 2K, RepoYeti and QuickDictate are source-available under PolyForm Noncommercial.
+SageThumbs 2K, RepoYeti, QuickDictate and VectorMagik are source-available under PolyForm Noncommercial.
 They are free for personal and other noncommercial use; commercial use needs a licence per
 installation:
 
@@ -263,6 +269,7 @@ installation:
   [Terms](https://repoyeti.com/#pricing)
 - **QuickDictate**: US$19.99 once or US$1.99 a month, per installation.
   [Terms](https://github.com/LunarWerxs/QuickDictate#-license)
+- **VectorMagik**: on request. [Ask](https://github.com/LunarWerxs/VectorMagik/issues/new)
 
 A few tools call a third-party AI or speech API, including RepoYeti's Smart Commit,
 RēDesign and QuickDictate. Those are **bring-your-own-key**: you supply your own provider
@@ -275,7 +282,7 @@ resells API access.
 <summary><b>Is it self-hosted or cloud?</b></summary>
 
 Self-hosted and local-first by default. RepoYeti, AgentHydra, DevWebUI and RēDesign run as
-a daemon on your own machine. SageThumbs 2K and QuickDictate are native Windows apps.
+a daemon on your own machine. SageThumbs 2K, QuickDictate and VectorMagik are native Windows apps.
 VectorMojo does its work entirely inside the browser tab, with no upload step at all.
 Where an optional cloud feature exists, such as RepoYeti's remote tunnel, it is off until
 you turn it on. The web apps (Connections, Accredited Capitalists, SharingTime, OpenBook) and
