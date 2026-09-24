@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lunarwerx.com"><img src="icons/hero.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 21 payloads in orbit, all systems nominal."></a>
+  <a href="https://lunarwerx.com"><img src="icons/mission-hero.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 21 payloads in orbit, all systems nominal."></a>
 </div>
 
 <div align="center">
@@ -320,6 +320,6 @@ best as issues on the product's own repo, where they get tracked and closed.
 
 **[lunarwerx.com](https://lunarwerx.com)** is the full product directory.
 
-<a href="https://lunarwerx.com"><img src="icons/footer.svg" width="100%" alt="lunarwerx.com"></a>
+<a href="https://lunarwerx.com"><img src="icons/horizon-footer.svg" width="100%" alt="lunarwerx.com"></a>
 
 </div>
