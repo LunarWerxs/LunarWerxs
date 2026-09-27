@@ -247,9 +247,9 @@ MIT-licensed open source, free for any use including commercial work, and YTSort
 Two of the apps are services rather than downloads: Connections has a free plan with paid Pass
 upgrades, and Accredited Capitalists is an invite-only membership.
 
-SageThumbs 2K, RepoYeti, QuickDictate and VectorMagik are source-available under PolyForm Noncommercial.
-They are free for personal and other noncommercial use; commercial use needs a licence per
-installation:
+SageThumbs 2K, RepoYeti, QuickDictate, VectorMagik and IMDb Watcharr are source-available under
+PolyForm Noncommercial. They are free for personal and other noncommercial use; commercial use of
+the first four needs a licence per installation:
 
 - **SageThumbs 2K**: US$49 once (perpetual, with 12 months of updates) or US$2.99 a month,
   per Windows installation. [Terms](https://sagethumbs.lunarwerx.com/#pricing)
@@ -258,6 +258,8 @@ installation:
 - **QuickDictate**: US$19.99 once or US$1.99 a month, per installation.
   [Terms](https://github.com/LunarWerxs/QuickDictate#-license)
 - **VectorMagik**: US$9 a month per person for work use. [Terms](https://vectormagik.lunarwerx.com/)
+- **IMDb Watcharr**: no commercial licence is sold, because IMDb's API does not allow commercial
+  use of its data. [Terms](https://github.com/LunarWerxs/IMDBWatcharr/blob/main/LICENSING.md)
 
 A few tools call a third-party AI or speech API, including RepoYeti's Smart Commit,
 RēDesign and QuickDictate. Those are **bring-your-own-key**: you supply your own provider
