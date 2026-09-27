@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lunarwerx.com"><img src="icons/mission-hero-23.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 23 payloads in orbit, all systems nominal."></a>
+  <a href="https://lunarwerx.com"><img src="icons/mission-hero-24.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 24 payloads in orbit, all systems nominal."></a>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
 [![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
 <br>
-[![23 products shipped](https://img.shields.io/badge/shipped-23%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
+[![24 products shipped](https://img.shields.io/badge/shipped-24%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
 [![Free for personal use](https://img.shields.io/badge/price-free_for_personal_use-2ea44f?style=for-the-badge)](https://lunarwerx.com/pricing.md)
 [![MCP server](https://img.shields.io/badge/MCP-server%20live-6E56CF?style=for-the-badge)](https://lunarwerx.com/mcp)
 
@@ -66,12 +66,6 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/AgentHydra"><img src="icons/agenthydra.svg" width="65" alt="AgentHydra"></a></td>
-<td><b>AgentHydra</b></td>
-<td>Every local AI coding session in one tab, Claude Code, Codex and OpenCode, with a schedulable queue and isolated Claude Desktop instances.</td>
-<td width="68"><a href="https://agenthydra.lunarwerx.com/" title="AgentHydra website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/AgentHydra" title="AgentHydra source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
-</tr>
-<tr>
 <td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/ReDesign"><img src="icons/redesign.svg" width="65" alt="RēDesign"></a></td>
 <td><b>RēDesign</b></td>
 <td>Drop in a UI screenshot and get a browsable wall of self-contained HTML redesigns from ten AI models at once.</td>
@@ -120,12 +114,6 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td width="68"><a href="https://repoyeti.com" title="RepoYeti website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/RepoYeti" title="RepoYeti source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/NormWind"><img src="icons/normwind.png" width="65" alt="NormWind"></a></td>
-<td><b>NormWind</b></td>
-<td>Normalize Tailwind. A zero-config CLI and GitHub Action: <code>px-4 py-4</code> → <code>p-4</code>, <code>w-6 h-6</code> → <code>size-6</code>.</td>
-<td width="68"><a href="https://normwind.lunarwerx.com/" title="NormWind website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/NormWind" title="NormWind source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
-</tr>
-<tr>
 <td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/AnatomyOf"><img src="icons/anatomyof.svg" width="65" alt="AnatomyOf"></a></td>
 <td><b>AnatomyOf</b></td>
 <td>An interactive, annotated tour of what is actually inside a source file, with colour-coded callouts, for 48 languages.</td>
@@ -149,18 +137,18 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td>Transfers files inside Google Colab 10–50× faster by copying in parallel across threads instead of one file at a time.</td>
 <td width="68"><a href="https://github.com/LunarWerxs/FastColabCopy" title="FastColabCopy source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/PyOverdrive"><img src="icons/pyoverdrive.svg" width="65" alt="PyOverdrive"></a></td>
+<td><b>PyOverdrive</b></td>
+<td>A drop-in NumPy accelerator: one <code>pyoverdrive.enable()</code> and supported calls take measured fast paths, while everything else stays stock NumPy.</td>
+<td width="68"><a href="https://github.com/LunarWerxs/PyOverdrive" title="PyOverdrive source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+</tr>
 </table>
 
 ## 🖥 Desktop and everyday utilities
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/SageThumbs-2k"><img src="icons/sagethumbs.png" width="65" alt="SageThumbs 2K"></a></td>
-<td><b>SageThumbs 2K</b></td>
-<td>A crash-isolated Rust shell extension giving Windows 11 Explorer thumbnails for 360+ file types it cannot show: camera RAW, PSD, HEIC/AVIF, video, ebooks, comics, CAD.</td>
-<td width="68"><a href="https://sagethumbs.lunarwerx.com/" title="SageThumbs 2K website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/SageThumbs-2k" title="SageThumbs 2K source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
-</tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/QuickDictate"><img src="icons/quickdictate.png" width="65" alt="QuickDictate"></a></td>
 <td><b>QuickDictate</b></td>
@@ -197,12 +185,6 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://getconnections.icu/"><img src="icons/connections.png" width="65" alt="Connections"></a></td>
-<td><b>Connections</b></td>
-<td>A relationship workspace bringing contacts, shared calendars, follow-ups, events and warm introductions together in one place.</td>
-<td width="68"><a href="https://getconnections.icu/" title="Connections website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://www.accap.co/"><img src="icons/accap.png" width="65" alt="Accredited Capitalists"></a></td>
 <td><b>Accredited Capitalists</b></td>
