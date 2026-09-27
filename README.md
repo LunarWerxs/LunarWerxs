@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lunarwerx.com"><img src="icons/mission-hero-22.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 22 payloads in orbit, all systems nominal."></a>
+  <a href="https://lunarwerx.com"><img src="icons/mission-hero-23.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 23 payloads in orbit, all systems nominal."></a>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
 [![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
 <br>
-[![22 products shipped](https://img.shields.io/badge/shipped-22%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
+[![23 products shipped](https://img.shields.io/badge/shipped-23%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
 [![Free for personal use](https://img.shields.io/badge/price-free_for_personal_use-2ea44f?style=for-the-badge)](https://lunarwerx.com/pricing.md)
 [![MCP server](https://img.shields.io/badge/MCP-server%20live-6E56CF?style=for-the-badge)](https://lunarwerx.com/mcp)
 
@@ -82,6 +82,12 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td><b>DevWebUI</b></td>
 <td>A GUI <i>and</i> an MCP control plane for the dev servers already running on your machine. Humans click, agents automate the same daemon.</td>
 <td width="68"><a href="https://devwebui.lunarwerx.com/" title="DevWebUI website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/DevWebUI" title="DevWebUI source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://github.com/Lunarwerx/ZergSwarm"><img src="icons/zergswarm.svg" width="65" alt="ZergSwarm"></a></td>
+<td><b>ZergSwarm</b></td>
+<td>Claude Code, Claude Desktop and Codex send the busywork to dozens of cheap AI models at once, and get the answers back as data.</td>
+<td width="68"><a href="https://zergswarm.lunarwerx.com/" title="ZergSwarm website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/Lunarwerx/ZergSwarm" title="ZergSwarm source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://marketplace.visualstudio.com/items?itemName=LunarWerx.copilot-suite"><img src="icons/copilotsuite.png" width="65" alt="Copilot Suite"></a></td>
@@ -170,7 +176,7 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <tr>
 <td width="93" height="90" align="center"><a href="https://vectormagik.lunarwerx.com/"><img src="icons/vectormagik.svg" width="65" alt="VectorMagik"></a></td>
 <td><b>VectorMagik</b></td>
-<td>Turns logos, artwork, pixel art and photos into clean SVG, PDF or EPS, offline on Windows or right in your browser, with a node editor to finish by hand.</td>
+<td>Turns logos, artwork, pixel art and photos into clean SVG, PDF or EPS, offline on Windows, Mac and Linux or right in your browser, with a node editor to finish by hand.</td>
 <td width="68"><a href="https://vectormagik.lunarwerx.com/" title="VectorMagik website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/VectorMagik" title="VectorMagik source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
@@ -269,7 +275,7 @@ installation:
   [Terms](https://repoyeti.com/#pricing)
 - **QuickDictate**: US$19.99 once or US$1.99 a month, per installation.
   [Terms](https://github.com/LunarWerxs/QuickDictate#-license)
-- **VectorMagik**: on request. [Ask](https://github.com/LunarWerxs/VectorMagik/issues/new)
+- **VectorMagik**: US$9 a month per person for work use. [Terms](https://vectormagik.lunarwerx.com/)
 
 A few tools call a third-party AI or speech API, including RepoYeti's Smart Commit,
 RēDesign and QuickDictate. Those are **bring-your-own-key**: you supply your own provider
@@ -282,7 +288,8 @@ resells API access.
 <summary><b>Is it self-hosted or cloud?</b></summary>
 
 Self-hosted and local-first by default. RepoYeti, AgentHydra, DevWebUI and RēDesign run as
-a daemon on your own machine. SageThumbs 2K, QuickDictate and VectorMagik are native Windows apps.
+a daemon on your own machine. SageThumbs 2K and QuickDictate are native Windows apps, and VectorMagik
+runs on Windows, Mac and Linux or in the browser.
 VectorMojo does its work entirely inside the browser tab, with no upload step at all.
 Where an optional cloud feature exists, such as RepoYeti's remote tunnel, it is off until
 you turn it on. The web apps (Connections, Accredited Capitalists, SharingTime, OpenBook) and
@@ -292,8 +299,8 @@ the two live tools (Codex Forecast, Model Odds) are hosted by us.
 <details>
 <summary><b>How do these tools work with AI agents?</b></summary>
 
-Several are built for agents as first-class users, not just people. **Five of the products
-above ship an MCP server of their own**, all of them local, free, and needing no account:
+Several are built for agents as first-class users, not just people. **Seven of the products
+above ship an MCP server of their own**, all of them local and needing no account:
 
 - **DevWebUI** and **AgentHydra** expose their whole daemon over MCP, so an agent drives
   exactly what a human clicks. AgentHydra also lets an agent ask which account it is
@@ -304,6 +311,10 @@ above ship an MCP server of their own**, all of them local, free, and needing no
 - **SageThumbs 2K**'s `st2k --mcp` renders a thumbnail for a RAW, PSD, HEIC or video file
   Windows itself cannot read, and its `view` tool decodes any supported format to a PNG
   block so an agent can actually *see* the file.
+- **ZergSwarm** is itself an MCP server: an agent hands it a batch of tasks and gets every
+  answer back as data, run on the cheapest capable model it has a provider key for.
+- **Copilot Suite** bridges Claude Code and the Codex CLI to your saved snippets and toolsets
+  through its built-in MCP server.
 
 **NormWind** ships as a GitHub Action so it can run unattended in CI. And the studio itself
 runs the public MCP server above.
