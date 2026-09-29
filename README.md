@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lunarwerx.com"><img src="icons/mission-hero-22.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 22 payloads in orbit, all systems nominal."></a>
+  <a href="https://lunarwerx.com"><img src="icons/mission-hero-28.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 28 payloads in orbit, all systems nominal."></a>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
 [![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
 <br>
-[![22 products shipped](https://img.shields.io/badge/shipped-22%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
+[![28 products shipped](https://img.shields.io/badge/shipped-28%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
 [![Free for personal use](https://img.shields.io/badge/price-free_for_personal_use-2ea44f?style=for-the-badge)](https://lunarwerx.com/pricing.md)
 [![MCP server](https://img.shields.io/badge/MCP-server%20live-6E56CF?style=for-the-badge)](https://lunarwerx.com/mcp)
 
@@ -179,6 +179,42 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://anticheat.lunarwerx.com/"><img src="icons/glimmer.svg" width="65" alt="Glimmer Anti-Cheat"></a></td>
+<td><b>Glimmer Anti-Cheat</b></td>
+<td>Anti-cheat on demand for game servers: send a player a link, they run one small program, and your staff get a clear report of what it found. FiveM, Minecraft, Rust and more.</td>
+<td width="68"><a href="https://anticheat.lunarwerx.com/" title="Glimmer Anti-Cheat website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://packingbuddy.lunarwerx.com/"><img src="icons/packingbuddy.png" width="65" alt="Packing Buddy"></a></td>
+<td><b>Packing Buddy</b></td>
+<td>Snap photos of what goes in a moving box: AI lists the items, picks the room and prints a coded label, so you can search for anything when you unpack.</td>
+<td width="68"><a href="https://packingbuddy.lunarwerx.com/" title="Packing Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://raisebuddy.lunarwerx.com/"><img src="icons/raisebuddy.png" width="65" alt="Raise Buddy"></a></td>
+<td><b>Raise Buddy</b></td>
+<td>Matches your nonprofit, startup or small business to real grants, loans, credits and prizes, and says whether you qualify in the funder's own words.</td>
+<td width="68"><a href="https://raisebuddy.lunarwerx.com/" title="Raise Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://askarr.com/"><img src="icons/askarr.svg" width="65" alt="Askarr"></a></td>
+<td><b>Askarr</b></td>
+<td>Request any movie or show from your phone or browser and your own Radarr and Sonarr add it. Nothing to install, and your server never faces the internet.</td>
+<td width="68"><a href="https://askarr.com/" title="Askarr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://oplink.lunarwerx.com/"><img src="icons/operatorlink.svg" width="65" alt="OperatorLink"></a></td>
+<td><b>OperatorLink</b></td>
+<td>STOP, hold, slow and every move for cranes, trucks and dump trucks, sent from phone to phone the instant it is called. Nothing to install: just send the jobsite link.</td>
+<td width="68"><a href="https://oplink.lunarwerx.com/" title="OperatorLink website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://mailbuddy.lunarwerx.com/"><img src="icons/mailbuddy.svg" width="65" alt="Mail Buddy"></a></td>
+<td><b>Mail Buddy</b></td>
+<td>A senior snaps a photo of each letter and hears, in big print and out loud, what it is and what to do: a bill and its due date, or a scam. The family gets a Monday summary.</td>
+<td width="68"><a href="https://mailbuddy.lunarwerx.com/" title="Mail Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://www.accap.co/"><img src="icons/accap.png" width="65" alt="Accredited Capitalists"></a></td>
 <td><b>Accredited Capitalists</b></td>
