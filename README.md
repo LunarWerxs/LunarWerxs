@@ -165,7 +165,7 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td width="93" height="90" align="center"><a href="https://vectormagik.lunarwerx.com/"><img src="icons/vectormagik.svg" width="65" alt="VectorMagik"></a></td>
 <td><b>VectorMagik</b></td>
 <td>Turns logos, artwork, pixel art and photos into clean SVG, PDF or EPS, offline on Windows, Mac and Linux or right in your browser, with a node editor to finish by hand.</td>
-<td width="68"><a href="https://vectormagik.lunarwerx.com/" title="VectorMagik website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/VectorMagik" title="VectorMagik source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+<td width="68"><a href="https://vectormagik.lunarwerx.com/" title="VectorMagik website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/YTSort"><img src="icons/ytsort.png" width="65" alt="YTSort"></a></td>
@@ -241,9 +241,9 @@ MIT-licensed open source, free for any use including commercial work, and YTSort
 Two of the apps are services rather than downloads: Connections has a free plan with paid Pass
 upgrades, and Accredited Capitalists is an invite-only membership.
 
-SageThumbs 2K, RepoYeti, QuickDictate, VectorMagik and IMDb Watcharr are source-available under
-PolyForm Noncommercial. They are free for personal and other noncommercial use; commercial use of
-the first four needs a licence per installation:
+SageThumbs 2K, RepoYeti, QuickDictate and IMDb Watcharr are source-available under PolyForm
+Noncommercial, and VectorMagik ships under the same licence. They are free for personal and other
+noncommercial use; commercial use of all but IMDb Watcharr needs a licence:
 
 - **SageThumbs 2K**: US$49 once (perpetual, with 12 months of updates) or US$2.99 a month,
   per Windows installation. [Terms](https://sagethumbs.lunarwerx.com/#pricing)
