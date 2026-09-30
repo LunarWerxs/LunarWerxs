@@ -210,10 +210,10 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td width="68"><a href="https://oplink.lunarwerx.com/" title="OperatorLink website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://mailbuddy.lunarwerx.com/"><img src="icons/mailbuddy.svg" width="65" alt="Mail Buddy"></a></td>
-<td><b>Mail Buddy</b></td>
+<td width="93" height="90" align="center"><a href="https://postalbuddy.lunarwerx.com/"><img src="icons/mailbuddy.svg" width="65" alt="Postal Buddy"></a></td>
+<td><b>Postal Buddy</b></td>
 <td>A senior snaps a photo of each letter and hears, in big print and out loud, what it is and what to do: a bill and its due date, or a scam. The family gets a Monday summary.</td>
-<td width="68"><a href="https://mailbuddy.lunarwerx.com/" title="Mail Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+<td width="68"><a href="https://postalbuddy.lunarwerx.com/" title="Postal Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://www.accap.co/"><img src="icons/accap.png" width="65" alt="Accredited Capitalists"></a></td>
