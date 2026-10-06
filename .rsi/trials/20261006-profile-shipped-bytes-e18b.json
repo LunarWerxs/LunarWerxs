@@ -1,0 +1,24 @@
+{
+ "closed": null,
+ "def_hash": "18d8ed2fe122c24f",
+ "id": "20261006-profile-shipped-bytes-e18b",
+ "idea": "lossless PNG recompression (best deflate filter/strategy per icon, pixel-identical)",
+ "lane": "normal",
+ "metric": "profile.shipped_bytes",
+ "opened": {
+  "at": "2026-10-06T10:16:23+00:00",
+  "by": "blogi",
+  "commit": "d413ebae56ab54d537f49120f87f191af2816780",
+  "machine": "MPC-HELL"
+ },
+ "pass_line": null,
+ "predict": {
+  "expect": 374500.0,
+  "hi": 380000.0,
+  "lo": 372000.0,
+  "p_keep": 0.8
+ },
+ "probe_minutes": null,
+ "project": "profile",
+ "schema": "hydra-rsi-trial/1"
+}
