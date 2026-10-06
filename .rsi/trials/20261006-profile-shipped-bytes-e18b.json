@@ -1,5 +1,88 @@
 {
- "closed": null,
+ "closed": {
+  "a": {
+   "commit": "d413ebae56ab54d537f49120f87f191af2816780",
+   "def_hash": "18d8ed2fe122c24f",
+   "dirty": false,
+   "id": "m-20261006T101624-d98eb3",
+   "load_after": 0.891,
+   "load_before": 0.869,
+   "machine": "MPC-HELL",
+   "metric": "profile.shipped_bytes",
+   "project": "profile",
+   "reason": null,
+   "seconds": 0.171,
+   "settings": {
+    "gate": "exact",
+    "kind": "size",
+    "measure_files": {
+     "scripts/rsi/shipped_bytes.py": "4261038cee55aa431f83cd62001b6fb0ed8a716f"
+    }
+   },
+   "started": "2026-10-06T10:16:24+00:00",
+   "status": "ok",
+   "value": 385668
+  },
+  "applies_if": "\\.png",
+  "at": "2026-10-06T10:18:13+00:00",
+  "b": {
+   "commit": "897ee683a8ce1f2f65bf86c7e553923f6fe27de7",
+   "def_hash": "18d8ed2fe122c24f",
+   "dirty": false,
+   "id": "m-20261006T101809-6cbf42",
+   "load_after": 0.605,
+   "load_before": 0.625,
+   "machine": "MPC-HELL",
+   "metric": "profile.shipped_bytes",
+   "project": "profile",
+   "reason": null,
+   "seconds": 0.139,
+   "settings": {
+    "gate": "exact",
+    "kind": "size",
+    "measure_files": {
+     "scripts/rsi/shipped_bytes.py": "4261038cee55aa431f83cd62001b6fb0ed8a716f"
+    }
+   },
+   "started": "2026-10-06T10:18:09+00:00",
+   "status": "ok",
+   "value": 374251
+  },
+  "guards": [
+   {
+    "a": 0,
+    "b": 0,
+    "declared": false,
+    "metric": "arkitect_gating_errors",
+    "state": "ok"
+   },
+   {
+    "a": 0,
+    "b": 0,
+    "declared": false,
+    "metric": "arkitect_warnings",
+    "state": "ok"
+   },
+   {
+    "a": 286,
+    "b": 286,
+    "declared": false,
+    "metric": "arkitect_no_data",
+    "state": "ok"
+   },
+   {
+    "a": 0,
+    "b": 0,
+    "declared": false,
+    "metric": "deps_total",
+    "state": "ok"
+   }
+  ],
+  "method": "exact: 385668 -> 374251",
+  "note": "lossless PNG recompression of 9 icons, pixel-identical",
+  "pattern": "re-deflate PNGs with best filter/strategy via magick, verify pixels equal",
+  "verdict": "kept"
+ },
  "def_hash": "18d8ed2fe122c24f",
  "id": "20261006-profile-shipped-bytes-e18b",
  "idea": "lossless PNG recompression (best deflate filter/strategy per icon, pixel-identical)",
