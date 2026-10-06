@@ -1,0 +1,12 @@
+schema: hydra-rsi/1
+# Bytes a visitor's browser downloads for the profile page: README.md plus the committed icons, hero and showcase images it loads.
+# Smaller images and a leaner README mean a faster-loading profile.
+metrics:
+  - id: profile.shipped_bytes
+    kind: size
+    better: lower
+    unit: bytes
+    measure: "python scripts/rsi/shipped_bytes.py"
+    pick: 'shipped_bytes=(\d+)'
+    gate: exact
+    light: true
