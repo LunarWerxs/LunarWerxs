@@ -1,0 +1,24 @@
+{
+ "closed": null,
+ "def_hash": "5a64254c5433ebaa",
+ "id": "20261007-arkitect-no-data-c3b9",
+ "idea": "add matching AGENTS.md and CLAUDE.md so the agent-instruction checks (cross-agent-instruction-parity) get input",
+ "lane": "normal",
+ "metric": "arkitect_no_data",
+ "opened": {
+  "at": "2026-10-07T09:58:46+00:00",
+  "by": "blogi",
+  "commit": "12bff976c755159c32c668e1c684eabe1c6843e8",
+  "machine": "MPC-HELL"
+ },
+ "pass_line": null,
+ "predict": {
+  "expect": 285.0,
+  "hi": 286.0,
+  "lo": 280.0,
+  "p_keep": 0.15
+ },
+ "probe_minutes": null,
+ "project": "profile",
+ "schema": "hydra-rsi-trial/1"
+}
