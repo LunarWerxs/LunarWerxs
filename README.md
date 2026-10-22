@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lunarwerx.com"><img src="icons/mission-hero-27.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 27 payloads in orbit, all systems nominal."></a>
+  <a href="https://lunarwerx.com"><img src="icons/mission-hero-26.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 26 payloads in orbit, all systems nominal."></a>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
 [![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
 <br>
-[![27 products shipped](https://img.shields.io/badge/shipped-27%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
+[![26 products shipped](https://img.shields.io/badge/shipped-26%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
 [![Free for personal use](https://img.shields.io/badge/price-free_for_personal_use-2ea44f?style=for-the-badge)](https://lunarwerx.com/pricing.md)
 [![MCP server](https://img.shields.io/badge/MCP-server%20live-6E56CF?style=for-the-badge)](https://lunarwerx.com/mcp)
 
@@ -65,12 +65,6 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/ReDesign"><img src="icons/redesign.svg" width="65" alt="RēDesign"></a></td>
-<td><b>RēDesign</b></td>
-<td>Drop in a UI screenshot and get a browsable wall of self-contained HTML redesigns from ten AI models at once.</td>
-<td width="68"><a href="https://redesign.lunarwerx.com/" title="RēDesign website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/ReDesign" title="RēDesign source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
-</tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/DevWebUI"><img src="icons/devwebui.svg" width="65" alt="DevWebUI"></a></td>
 <td><b>DevWebUI</b></td>
@@ -265,7 +259,7 @@ MIT-licensed open source, free for any use including commercial work, and YTSort
 Two of the apps are services rather than downloads: Connections has a free plan with paid Pass
 upgrades, and Accredited Capitalists is an invite-only membership.
 
-SageThumbs 2K, RepoYeti, QuickDictate, VectorMagik, RēDesign, DevWebUI and IMDb Watcharr are
+SageThumbs 2K, RepoYeti, QuickDictate, VectorMagik, DevWebUI and IMDb Watcharr are
 source-available under PolyForm Noncommercial. They are free for personal and other
 noncommercial use; commercial use of all but IMDb Watcharr needs a licence:
 
@@ -276,14 +270,13 @@ noncommercial use; commercial use of all but IMDb Watcharr needs a licence:
 - **QuickDictate**: US$19.99 once or US$1.99 a month, per installation.
   [Terms](https://github.com/LunarWerxs/QuickDictate#-license)
 - **VectorMagik**: US$9 a month per person for work use. [Terms](https://vectormagik.lunarwerx.com/)
-- **RēDesign** and **DevWebUI**: quoted on request through each repo's commercial licence form.
-  [RēDesign terms](https://github.com/LunarWerxs/ReDesign/blob/main/LICENSING.md) ·
-  [DevWebUI terms](https://github.com/LunarWerxs/DevWebUI/blob/main/LICENSING.md)
+- **DevWebUI**: quoted on request through its commercial licence form.
+  [Terms](https://github.com/LunarWerxs/DevWebUI/blob/main/LICENSING.md)
 - **IMDb Watcharr**: no commercial licence is sold, because IMDb's API does not allow commercial
   use of its data. [Terms](https://github.com/LunarWerxs/IMDBWatcharr/blob/main/LICENSING.md)
 
-A few tools call a third-party AI or speech API, including RepoYeti's Smart Commit,
-RēDesign and QuickDictate. Those are **bring-your-own-key**: you supply your own provider
+A few tools call a third-party AI or speech API, including RepoYeti's Smart Commit and
+QuickDictate. Those are **bring-your-own-key**: you supply your own provider
 credentials and pay that provider directly, which is often nothing on a free tier, and
 QuickDictate also has a free offline Local provider. LunarWerx never takes a cut and never
 resells API access.
@@ -292,7 +285,7 @@ resells API access.
 <details>
 <summary><b>Is it self-hosted or cloud?</b></summary>
 
-Self-hosted and local-first by default. RepoYeti, AgentHydra, DevWebUI and RēDesign run as
+Self-hosted and local-first by default. RepoYeti, AgentHydra and DevWebUI run as
 a daemon on your own machine. SageThumbs 2K and QuickDictate are native Windows apps, and VectorMagik
 runs on Windows, Mac and Linux or in the browser.
 Where an optional cloud feature exists, such as RepoYeti's remote tunnel, it is off until
@@ -303,7 +296,7 @@ the two live tools (Codex Forecast, Model Odds) are hosted by us.
 <details>
 <summary><b>How do these tools work with AI agents?</b></summary>
 
-Several are built for agents as first-class users, not just people. **Six of the products
+Several are built for agents as first-class users, not just people. **Five of the products
 above ship an MCP server of their own**, all of them local and needing no account:
 
 - **DevWebUI** and **AgentHydra** expose their whole daemon over MCP, so an agent drives
@@ -312,7 +305,6 @@ above ship an MCP server of their own**, all of them local and needing no accoun
   hands a batch of tasks to cheap AI models at once and returns every answer as data.
 - **RepoYeti**'s `repoyeti mcp` exposes local repos plus guarded remote commit and sync,
   and publishes its full HTTP API at `GET /api/openapi.json`.
-- **RēDesign**'s `bun run src/index.ts mcp` lets an agent queue and compare redesign runs.
 - **SageThumbs 2K**'s `st2k --mcp` renders a thumbnail for a RAW, PSD, HEIC or video file
   Windows itself cannot read, and its `view` tool decodes any supported format to a PNG
   block so an agent can actually *see* the file.
