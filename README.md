@@ -265,8 +265,8 @@ MIT-licensed open source, free for any use including commercial work, and YTSort
 Two of the apps are services rather than downloads: Connections has a free plan with paid Pass
 upgrades, and Accredited Capitalists is an invite-only membership.
 
-SageThumbs 2K, RepoYeti, QuickDictate and IMDb Watcharr are source-available under PolyForm
-Noncommercial, and VectorMagik ships under the same licence. They are free for personal and other
+SageThumbs 2K, RepoYeti, QuickDictate, VectorMagik, RēDesign, DevWebUI and IMDb Watcharr are
+source-available under PolyForm Noncommercial. They are free for personal and other
 noncommercial use; commercial use of all but IMDb Watcharr needs a licence:
 
 - **SageThumbs 2K**: US$49 once (perpetual, with 12 months of updates) or US$2.99 a month,
@@ -276,6 +276,9 @@ noncommercial use; commercial use of all but IMDb Watcharr needs a licence:
 - **QuickDictate**: US$19.99 once or US$1.99 a month, per installation.
   [Terms](https://github.com/LunarWerxs/QuickDictate#-license)
 - **VectorMagik**: US$9 a month per person for work use. [Terms](https://vectormagik.lunarwerx.com/)
+- **RēDesign** and **DevWebUI**: quoted on request through each repo's commercial licence form.
+  [RēDesign terms](https://github.com/LunarWerxs/ReDesign/blob/main/LICENSING.md) ·
+  [DevWebUI terms](https://github.com/LunarWerxs/DevWebUI/blob/main/LICENSING.md)
 - **IMDb Watcharr**: no commercial licence is sold, because IMDb's API does not allow commercial
   use of its data. [Terms](https://github.com/LunarWerxs/IMDBWatcharr/blob/main/LICENSING.md)
 
