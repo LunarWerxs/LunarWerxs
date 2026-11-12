@@ -26,68 +26,95 @@
 tools, desktop utilities and everyday apps.** Everything below is shipped, most of it free for personal use and open source,
 and most of it runs on your machine rather than ours. 🌙
 
-## 🚀 Flagships
+## 🚀 Start here
+
+Our most downloaded, picked by the counts, not by our favourites.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://sagethumbs.lunarwerx.com/"><img src="icons/showcase/sagethumbs.jpg" width="100%" alt="SageThumbs 2K: thumbnails for the 360+ formats Windows can't read"></a><br>
-<sub>DESKTOP UTILITY</sub><br>
+<sub>DESKTOP UTILITY · NEARLY 25,000 DOWNLOADS</sub><br>
 <b>SageThumbs 2K</b><br>
-Explorer thumbnails for 360+ file types Windows can't show, from a crash-isolated Rust shell extension.
+Explorer thumbnails for 360+ file types Windows can't show, from a crash-isolated Rust shell extension.<br>
+<a href="https://github.com/LunarWerxs/SageThumbs-2k/releases/latest">Download for Windows</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://getconnections.icu/"><img src="icons/showcase/connections.jpg" width="100%" alt="Connections: stop going to events alone"></a><br>
-<sub>WEB APP</sub><br>
-<b>Connections</b><br>
-A relationship workspace bringing contacts, shared calendars, follow-ups, events and warm introductions together in one place.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://agenthydra.lunarwerx.com/"><img src="icons/showcase/agenthydra.jpg" width="100%" alt="AgentHydra: every AI coding agent and account on your PC, in one window"></a><br>
-<sub>AI AND AGENT TOOLING</sub><br>
-<b>AgentHydra</b><br>
-Every Claude Code, Codex and OpenCode session and every Claude and Codex account in one window, with cost and quota tracking. When an account hits its limit, the work moves to another by itself.
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://normwind.lunarwerx.com/"><img src="icons/showcase/normwind.jpg" width="100%" alt="NormWind: normalize Tailwind classes"></a><br>
-<sub>DEVELOPER TOOL</sub><br>
+<sub>DEVELOPER TOOL · 5,385 NPM DOWNLOADS IN A YEAR</sub><br>
 <b>NormWind</b><br>
-A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into canonical ones.
+A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into canonical ones.<br>
+<a href="https://www.npmjs.com/package/@lunawerx/normwind">Get it on npm</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://copilotsuite.us/"><img src="icons/showcase/copilotsuite.jpg" width="100%" alt="Copilot Suite: turn your snippets into Copilot tools"></a><br>
+<sub>VS CODE EXTENSION · 594 INSTALLS</sub><br>
+<b>Copilot Suite</b><br>
+Save code as reusable snippets and inject them into Copilot Chat, with toolsets and an MCP server bridging Claude Code and Codex.<br>
+<a href="https://marketplace.visualstudio.com/items?itemName=LunarWerx.copilot-suite">Install in VS Code</a>
 </td>
 </tr>
 </table>
 
 <sub><img src="icons/_site.svg" width="13" alt=""> website &nbsp;&nbsp;<img src="icons/_code.svg" width="13" alt=""> source &nbsp;&nbsp;<img src="icons/_store.svg" width="13" alt=""> marketplace</sub>
 
-## 🤖 AI and agent tooling
+## 🖥 Desktop and browser utilities
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/DevWebUI"><img src="icons/devwebui.svg" width="65" alt="DevWebUI"></a></td>
-<td><b>DevWebUI</b></td>
-<td>A GUI <i>and</i> an MCP control plane for the dev servers already running on your machine. Humans click, agents automate the same daemon.</td>
-<td width="68"><a href="https://devwebui.lunarwerx.com/" title="DevWebUI website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/DevWebUI" title="DevWebUI source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/QuickDictate"><img src="icons/quickdictate.png" width="65" alt="QuickDictate"></a></td>
+<td><b>QuickDictate</b></td>
+<td>A tiny Windows tray app for voice dictation. Press a hotkey, talk, and your words type into whatever window has focus.</td>
+<td width="68"><a href="https://quickdictate.lunarwerx.com/" title="QuickDictate website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/QuickDictate" title="QuickDictate source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://marketplace.visualstudio.com/items?itemName=LunarWerx.copilot-suite"><img src="icons/copilotsuite.png" width="65" alt="Copilot Suite"></a></td>
-<td><b>Copilot Suite</b></td>
-<td>Save code as reusable snippets and inject them into Copilot Chat, with folders, sharing, toolsets and an MCP server bridging Claude Code and Codex.</td>
-<td width="68"><a href="https://marketplace.visualstudio.com/items?itemName=LunarWerx.copilot-suite" title="Copilot Suite on the VS Code Marketplace"><img src="icons/_store.svg" width="17" alt="Marketplace"></a></td>
+<td width="93" height="90" align="center"><a href="https://vectormagik.lunarwerx.com/"><img src="icons/vectormagik.svg" width="65" alt="VectorMagik"></a></td>
+<td><b>VectorMagik</b></td>
+<td>Turns logos, artwork, pixel art and photos into clean SVG, PDF or EPS, and converts Photoshop, Illustrator, EPS and PDF files just as they look. Offline on Windows, Mac and Linux or right in your browser.</td>
+<td width="68"><a href="https://vectormagik.lunarwerx.com/" title="VectorMagik website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://codex.lunarwerx.com/"><img src="icons/codexforecast.svg" width="65" alt="Codex Forecast"></a></td>
-<td><b>Codex Forecast</b></td>
-<td>A statistical read on the next Codex usage-limit reset, rebuilt on every load from the public record and the OpenAI status feed. Free email alerts.</td>
-<td width="68"><a href="https://codex.lunarwerx.com/" title="Codex Forecast website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/YTSort"><img src="icons/ytsort.png" width="65" alt="YTSort"></a></td>
+<td><b>YTSort</b></td>
+<td>Sorts any YouTube playlist you own by video length, shortest or longest first, in seconds. Userscript plus Chrome extension.</td>
+<td width="68"><a href="https://ytsort.lunarwerx.com/" title="YTSort website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/YTSort" title="YTSort source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://models.lunarwerx.com/"><img src="icons/modelodds.svg" width="65" alt="Model Odds"></a></td>
-<td><b>Model Odds</b></td>
-<td>Every model family from twelve AI labs, ranked by the chance of a release within 30 days and given a likely date, from every past launch.</td>
-<td width="68"><a href="https://models.lunarwerx.com/" title="Model Odds website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+<td width="93" height="90" align="center"><a href="https://3dprint.lunarwerx.com/"><img src="icons/3dprint.svg" width="65" alt="3D Print Tools"></a></td>
+<td><b>3D Print Tools</b></td>
+<td>Free browser tools for 3D printing: ironing settings, injection mould halves with 13 moulding checks, and printable packing foam. Your files never leave your computer.</td>
+<td width="68"><a href="https://3dprint.lunarwerx.com/" title="3D Print Tools website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+</table>
+
+## 📺 For your media server
+
+<table>
+<tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/IMDBWatcharr"><img src="icons/watcharr.svg" width="65" alt="IMDb Watcharr"></a></td>
+<td><b>IMDb Watcharr</b></td>
+<td>Turns a public IMDb watchlist into a Radarr RSS feed and a Sonarr custom list, so your *arr stack picks up the same titles.</td>
+<td width="68"><a href="https://watcharr.lunarwerx.com" title="IMDb Watcharr website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/IMDBWatcharr" title="IMDb Watcharr source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://askarr.com/"><img src="icons/askarr.svg" width="65" alt="Askarr"></a></td>
+<td><b>Askarr</b></td>
+<td>Request any movie or show from your phone or browser and your own Radarr and Sonarr add it. Nothing to install, and your server never faces the internet.</td>
+<td width="68"><a href="https://askarr.com/" title="Askarr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://skiparr.lunarwerx.com/"><img src="icons/skiparr.svg" width="65" alt="Skiparr"></a></td>
+<td><b>Skiparr</b></td>
+<td>Your phone drives Plex for Windows: play, pause, jump and browse your libraries, with plain-text filters that skip, mute, black out or blur the scenes you would rather not see. Early access.</td>
+<td width="68"><a href="https://skiparr.lunarwerx.com/" title="Skiparr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://promptarr.lunarwerx.com/"><img src="icons/promptarr.svg" width="65" alt="Promptarr"></a></td>
+<td><b>Promptarr</b></td>
+<td>Write rules in plain English, like English audio first. Promptarr checks each Sonarr and Radarr grab against them and swaps a bad release while it is still downloading. Early access.</td>
+<td width="68"><a href="https://promptarr.lunarwerx.com/" title="Promptarr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 </table>
 
@@ -133,67 +160,37 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 </tr>
 </table>
 
-## 🖥 Desktop and browser utilities
+## 🤖 AI and agent tooling
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/QuickDictate"><img src="icons/quickdictate.png" width="65" alt="QuickDictate"></a></td>
-<td><b>QuickDictate</b></td>
-<td>A tiny Windows tray app for voice dictation. Press a hotkey, talk, and your words type into whatever window has focus.</td>
-<td width="68"><a href="https://quickdictate.lunarwerx.com/" title="QuickDictate website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/QuickDictate" title="QuickDictate source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+<td width="93" height="90" align="center"><a href="https://agenthydra.lunarwerx.com/"><img src="icons/agenthydra.svg" width="65" alt="AgentHydra"></a></td>
+<td><b>AgentHydra</b></td>
+<td>Every Claude Code, Codex and OpenCode session and every Claude and Codex account in one window, with cost and quota tracking. When an account hits its limit, the work moves to another by itself.</td>
+<td width="68"><a href="https://agenthydra.lunarwerx.com/" title="AgentHydra website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://vectormagik.lunarwerx.com/"><img src="icons/vectormagik.svg" width="65" alt="VectorMagik"></a></td>
-<td><b>VectorMagik</b></td>
-<td>Turns logos, artwork, pixel art and photos into clean SVG, PDF or EPS, and converts Photoshop, Illustrator, EPS and PDF files just as they look. Offline on Windows, Mac and Linux or right in your browser.</td>
-<td width="68"><a href="https://vectormagik.lunarwerx.com/" title="VectorMagik website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/DevWebUI"><img src="icons/devwebui.svg" width="65" alt="DevWebUI"></a></td>
+<td><b>DevWebUI</b></td>
+<td>A GUI <i>and</i> an MCP control plane for the dev servers already running on your machine. Humans click, agents automate the same daemon.</td>
+<td width="68"><a href="https://devwebui.lunarwerx.com/" title="DevWebUI website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/DevWebUI" title="DevWebUI source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/YTSort"><img src="icons/ytsort.png" width="65" alt="YTSort"></a></td>
-<td><b>YTSort</b></td>
-<td>Sorts any YouTube playlist you own by video length, shortest or longest first, in seconds. Userscript plus Chrome extension.</td>
-<td width="68"><a href="https://ytsort.lunarwerx.com/" title="YTSort website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/YTSort" title="YTSort source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
+<td width="93" height="90" align="center"><a href="https://codex.lunarwerx.com/"><img src="icons/codexforecast.svg" width="65" alt="Codex Forecast"></a></td>
+<td><b>Codex Forecast</b></td>
+<td>A statistical read on the next Codex usage-limit reset, rebuilt on every load from the public record and the OpenAI status feed. Free email alerts.</td>
+<td width="68"><a href="https://codex.lunarwerx.com/" title="Codex Forecast website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://3dprint.lunarwerx.com/"><img src="icons/3dprint.svg" width="65" alt="3D Print Tools"></a></td>
-<td><b>3D Print Tools</b></td>
-<td>Free browser tools for 3D printing: ironing settings, injection mould halves with 13 moulding checks, and printable packing foam. Your files never leave your computer.</td>
-<td width="68"><a href="https://3dprint.lunarwerx.com/" title="3D Print Tools website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+<td width="93" height="90" align="center"><a href="https://models.lunarwerx.com/"><img src="icons/modelodds.svg" width="65" alt="Model Odds"></a></td>
+<td><b>Model Odds</b></td>
+<td>Every model family from twelve AI labs, ranked by the chance of a release within 30 days and given a likely date, from every past launch.</td>
+<td width="68"><a href="https://models.lunarwerx.com/" title="Model Odds website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 </table>
 
-## 📺 Home media server
-
-<table>
-<tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/IMDBWatcharr"><img src="icons/watcharr.svg" width="65" alt="IMDb Watcharr"></a></td>
-<td><b>IMDb Watcharr</b></td>
-<td>Turns a public IMDb watchlist into a Radarr RSS feed and a Sonarr custom list, so your *arr stack picks up the same titles.</td>
-<td width="68"><a href="https://watcharr.lunarwerx.com" title="IMDb Watcharr website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/IMDBWatcharr" title="IMDb Watcharr source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
-</tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://askarr.com/"><img src="icons/askarr.svg" width="65" alt="Askarr"></a></td>
-<td><b>Askarr</b></td>
-<td>Request any movie or show from your phone or browser and your own Radarr and Sonarr add it. Nothing to install, and your server never faces the internet.</td>
-<td width="68"><a href="https://askarr.com/" title="Askarr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://skiparr.lunarwerx.com/"><img src="icons/skiparr.svg" width="65" alt="Skiparr"></a></td>
-<td><b>Skiparr</b></td>
-<td>Your phone drives Plex for Windows: play, pause, jump and browse your libraries, with plain-text filters that skip, mute, black out or blur the scenes you would rather not see. Early access.</td>
-<td width="68"><a href="https://skiparr.lunarwerx.com/" title="Skiparr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://promptarr.lunarwerx.com/"><img src="icons/promptarr.svg" width="65" alt="Promptarr"></a></td>
-<td><b>Promptarr</b></td>
-<td>Write rules in plain English, like English audio first. Promptarr checks each Sonarr and Radarr grab against them and swaps a bad release while it is still downloading. Early access.</td>
-<td width="68"><a href="https://promptarr.lunarwerx.com/" title="Promptarr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
-</table>
-
-## 🤝 Buddy apps
+## 🤝 Everyday apps
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
@@ -239,12 +236,6 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td>Give it a phone video of up to 20 minutes and it finds the best moments and finishes them as vertical reels: pauses cut, noise removed, captions on. The video never leaves your phone.</td>
 <td width="68"><a href="https://reelbuddy.lunarwerx.com/" title="Reel Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
-</table>
-
-## 🌐 Platforms and communities
-
-<table>
-<tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://anticheat.lunarwerx.com/"><img src="icons/glimmer.svg" width="65" alt="Glimmer Anti-Cheat"></a></td>
 <td><b>Glimmer Anti-Cheat</b></td>
@@ -258,16 +249,30 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td width="68"><a href="https://oplink.lunarwerx.com/" title="OperatorLink website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://www.accap.co/"><img src="icons/accap.png" width="65" alt="Accredited Capitalists"></a></td>
-<td><b>Accredited Capitalists</b></td>
-<td>An invite-vetted network for high-net-worth and accredited investors, running onboarding, billing, a member community, events and deal flow.</td>
-<td width="68"><a href="https://www.accap.co/" title="Accredited Capitalists website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
-<tr>
 <td width="93" height="90" align="center"><a href="https://sharingtime.us/"><img src="icons/sharingtime.svg" width="65" alt="SharingTime"></a></td>
 <td><b>SharingTime</b></td>
 <td>A collaborative speaking timer that keeps talk-time balanced across a group, built for couples, families, and teams who want every voice heard.</td>
 <td width="68"><a href="https://sharingtime.us/" title="SharingTime website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+</table>
+
+## 🌐 Communities on Connections
+
+Connections is our relationship workspace. The groups beside it are their own organisations, running their members, events and payments on it.
+
+<table>
+<tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://connections.icu/"><img src="icons/connections.png" width="65" alt="Connections"></a></td>
+<td><b>Connections</b></td>
+<td>A relationship workspace bringing contacts, shared calendars, follow-ups, events and warm introductions together in one place.</td>
+<td width="68"><a href="https://connections.icu/" title="Connections website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://www.accap.co/"><img src="icons/accap.png" width="65" alt="Accredited Capitalists"></a></td>
+<td><b>Accredited Capitalists</b></td>
+<td>Houston's private monthly evening for accredited investors, founders and family offices. The club is its own company: we built its member app, and its sign-in, events and payments run on Connections.</td>
+<td width="68"><a href="https://www.accap.co/" title="Accredited Capitalists website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 </table>
 
