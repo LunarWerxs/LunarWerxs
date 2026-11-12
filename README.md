@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://lunarwerx.com"><img src="icons/mission-hero-26.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 26 payloads in orbit, all systems nominal."></a>
+  <a href="https://lunarwerx.com"><img src="icons/mission-hero-34.svg" width="100%" alt="LunarWerx Studios mission control. Digital Dreams and AI Solutions. $ lunarwerx launch --manifest: 34 payloads in orbit, all systems nominal."></a>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
 [![GitHub stars](https://img.shields.io/github/stars/LunarWerxs?affiliations=OWNER&style=for-the-badge&logo=github&label=stars&color=E8492F)](https://github.com/LunarWerxs?tab=repositories&sort=stargazers)
 <br>
-[![26 products shipped](https://img.shields.io/badge/shipped-26%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
+[![34 products shipped](https://img.shields.io/badge/shipped-34%20products-2E5F92?style=for-the-badge)](https://lunarwerx.com)
 [![Free for personal use](https://img.shields.io/badge/price-free_for_personal_use-2ea44f?style=for-the-badge)](https://lunarwerx.com/pricing.md)
 [![MCP server](https://img.shields.io/badge/MCP-server%20live-6E56CF?style=for-the-badge)](https://lunarwerx.com/mcp)
 
@@ -23,7 +23,7 @@
 </div>
 
 **LunarWerx Studios is an independent software studio that builds AI-powered developer
-tools and desktop utilities.** Everything below is shipped, most of it free for personal use and open source,
+tools, desktop utilities and everyday apps.** Everything below is shipped, most of it free for personal use and open source,
 and most of it runs on your machine rather than ours. 🌙
 
 ## 🚀 Flagships
@@ -45,10 +45,10 @@ A relationship workspace bringing contacts, shared calendars, follow-ups, events
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://agenthydra.lunarwerx.com/"><img src="icons/showcase/agenthydra.jpg" width="100%" alt="AgentHydra: every local AI session in one tab"></a><br>
+<a href="https://agenthydra.lunarwerx.com/"><img src="icons/showcase/agenthydra.jpg" width="100%" alt="AgentHydra: every AI coding agent and account on your PC, in one window"></a><br>
 <sub>AI AND AGENT TOOLING</sub><br>
 <b>AgentHydra</b><br>
-Every local AI coding session in one tab: Claude Code, Codex and OpenCode, with a queue you can schedule.
+Every Claude Code, Codex and OpenCode session and every Claude and Codex account in one window, with cost and quota tracking. When an account hits its limit, the work moves to another by itself.
 </td>
 <td width="50%" valign="top">
 <a href="https://normwind.lunarwerx.com/"><img src="icons/showcase/normwind.jpg" width="100%" alt="NormWind: normalize Tailwind classes"></a><br>
@@ -133,7 +133,7 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 </tr>
 </table>
 
-## 🖥 Desktop and everyday utilities
+## 🖥 Desktop and browser utilities
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
@@ -156,14 +156,92 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td width="68"><a href="https://ytsort.lunarwerx.com/" title="YTSort website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/YTSort" title="YTSort source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
 <tr>
+<td width="93" height="90" align="center"><a href="https://3dprint.lunarwerx.com/"><img src="icons/3dprint.svg" width="65" alt="3D Print Tools"></a></td>
+<td><b>3D Print Tools</b></td>
+<td>Free browser tools for 3D printing: ironing settings, injection mould halves with 13 moulding checks, and printable packing foam. Your files never leave your computer.</td>
+<td width="68"><a href="https://3dprint.lunarwerx.com/" title="3D Print Tools website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+</table>
+
+## 📺 Home media server
+
+<table>
+<tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
+<tr>
 <td width="93" height="90" align="center"><a href="https://github.com/LunarWerxs/IMDBWatcharr"><img src="icons/watcharr.svg" width="65" alt="IMDb Watcharr"></a></td>
 <td><b>IMDb Watcharr</b></td>
 <td>Turns a public IMDb watchlist into a Radarr RSS feed and a Sonarr custom list, so your *arr stack picks up the same titles.</td>
 <td width="68"><a href="https://watcharr.lunarwerx.com" title="IMDb Watcharr website"><img src="icons/_site.svg" width="17" alt="Website"></a> <a href="https://github.com/LunarWerxs/IMDBWatcharr" title="IMDb Watcharr source"><img src="icons/_code.svg" width="17" alt="Source"></a></td>
 </tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://askarr.com/"><img src="icons/askarr.svg" width="65" alt="Askarr"></a></td>
+<td><b>Askarr</b></td>
+<td>Request any movie or show from your phone or browser and your own Radarr and Sonarr add it. Nothing to install, and your server never faces the internet.</td>
+<td width="68"><a href="https://askarr.com/" title="Askarr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://skiparr.lunarwerx.com/"><img src="icons/skiparr.svg" width="65" alt="Skiparr"></a></td>
+<td><b>Skiparr</b></td>
+<td>Your phone drives Plex for Windows: play, pause, jump and browse your libraries, with plain-text filters that skip, mute, black out or blur the scenes you would rather not see. Early access.</td>
+<td width="68"><a href="https://skiparr.lunarwerx.com/" title="Skiparr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://promptarr.lunarwerx.com/"><img src="icons/promptarr.svg" width="65" alt="Promptarr"></a></td>
+<td><b>Promptarr</b></td>
+<td>Write rules in plain English, like English audio first. Promptarr checks each Sonarr and Radarr grab against them and swaps a bad release while it is still downloading. Early access.</td>
+<td width="68"><a href="https://promptarr.lunarwerx.com/" title="Promptarr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
 </table>
 
-## 🌐 Apps and platforms
+## 🤝 Buddy apps
+
+<table>
+<tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://packingbuddy.lunarwerx.com/"><img src="icons/packingbuddy.png" width="65" alt="Packing Buddy"></a></td>
+<td><b>Packing Buddy</b></td>
+<td>Snap photos of what goes in a moving box: AI lists the items, picks the room and prints a coded label, so you can search for anything when you unpack.</td>
+<td width="68"><a href="https://packingbuddy.lunarwerx.com/" title="Packing Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://postalbuddy.lunarwerx.com/"><img src="icons/mailbuddy.svg" width="65" alt="Postal Buddy"></a></td>
+<td><b>Postal Buddy</b></td>
+<td>A senior snaps a photo of each letter and hears, in big print and out loud, what it is and what to do: a bill and its due date, or a scam. The family gets a Monday summary.</td>
+<td width="68"><a href="https://postalbuddy.lunarwerx.com/" title="Postal Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://raisebuddy.lunarwerx.com/"><img src="icons/raisebuddy.png" width="65" alt="Raise Buddy"></a></td>
+<td><b>Raise Buddy</b></td>
+<td>Matches your nonprofit, startup or small business to real grants, loans, credits and prizes, and says whether you qualify in the funder's own words.</td>
+<td width="68"><a href="https://raisebuddy.lunarwerx.com/" title="Raise Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://benefitbuddy.lunarwerx.com/"><img src="icons/benefitbuddy.png" width="65" alt="Benefit Buddy"></a></td>
+<td><b>Benefit Buddy</b></td>
+<td>Tell it about your household and it lists every benefit you could be using: government programs, your state's own, and the perks already in your health plan, insurance, cards and job.</td>
+<td width="68"><a href="https://benefitbuddy.lunarwerx.com/" title="Benefit Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://billingbuddy.lunarwerx.com/"><img src="icons/billingbuddy.png" width="65" alt="Billing Buddy"></a></td>
+<td><b>Billing Buddy</b></td>
+<td>Midwives, therapists, chiropractors and dentists say what happened at a visit and get a ready-to-send insurance claim, with the reason for every line. It tracks the claim and writes the appeal if it is denied.</td>
+<td width="68"><a href="https://billingbuddy.lunarwerx.com/" title="Billing Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://radbuddy.lunarwerx.com/"><img src="icons/radiologistbuddy.png" width="65" alt="Radiologist Buddy"></a></td>
+<td><b>Radiologist Buddy</b></td>
+<td>Paste a radiology report and each finding is drafted in plain words and pinned on a 3D body, with what to ask the doctor. The clinician approves every word; the patient opens it at home with a code.</td>
+<td width="68"><a href="https://radbuddy.lunarwerx.com/" title="Radiologist Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+<tr>
+<td width="93" height="90" align="center"><a href="https://reelbuddy.lunarwerx.com/"><img src="icons/reelbuddy.png" width="65" alt="Reel Buddy"></a></td>
+<td><b>Reel Buddy</b></td>
+<td>Give it a phone video of up to 20 minutes and it finds the best moments and finishes them as vertical reels: pauses cut, noise removed, captions on. The video never leaves your phone.</td>
+<td width="68"><a href="https://reelbuddy.lunarwerx.com/" title="Reel Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
+</tr>
+</table>
+
+## 🌐 Platforms and communities
 
 <table>
 <tr><th width="93"></th><th align="left">Product</th><th align="left">What it does</th><th width="68"></th></tr>
@@ -174,34 +252,10 @@ A zero-config CLI and GitHub Action that rewrites bloated Tailwind classes into 
 <td width="68"><a href="https://anticheat.lunarwerx.com/" title="Glimmer Anti-Cheat website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
-<td width="93" height="90" align="center"><a href="https://packingbuddy.lunarwerx.com/"><img src="icons/packingbuddy.png" width="65" alt="Packing Buddy"></a></td>
-<td><b>Packing Buddy</b></td>
-<td>Snap photos of what goes in a moving box: AI lists the items, picks the room and prints a coded label, so you can search for anything when you unpack.</td>
-<td width="68"><a href="https://packingbuddy.lunarwerx.com/" title="Packing Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://raisebuddy.lunarwerx.com/"><img src="icons/raisebuddy.png" width="65" alt="Raise Buddy"></a></td>
-<td><b>Raise Buddy</b></td>
-<td>Matches your nonprofit, startup or small business to real grants, loans, credits and prizes, and says whether you qualify in the funder's own words.</td>
-<td width="68"><a href="https://raisebuddy.lunarwerx.com/" title="Raise Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://askarr.com/"><img src="icons/askarr.svg" width="65" alt="Askarr"></a></td>
-<td><b>Askarr</b></td>
-<td>Request any movie or show from your phone or browser and your own Radarr and Sonarr add it. Nothing to install, and your server never faces the internet.</td>
-<td width="68"><a href="https://askarr.com/" title="Askarr website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
-<tr>
 <td width="93" height="90" align="center"><a href="https://oplink.lunarwerx.com/"><img src="icons/operatorlink.svg" width="65" alt="OperatorLink"></a></td>
 <td><b>OperatorLink</b></td>
 <td>STOP, hold, slow and every move for cranes, trucks and dump trucks, sent from phone to phone the instant it is called. Nothing to install: just send the jobsite link.</td>
 <td width="68"><a href="https://oplink.lunarwerx.com/" title="OperatorLink website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
-</tr>
-<tr>
-<td width="93" height="90" align="center"><a href="https://postalbuddy.lunarwerx.com/"><img src="icons/mailbuddy.svg" width="65" alt="Postal Buddy"></a></td>
-<td><b>Postal Buddy</b></td>
-<td>A senior snaps a photo of each letter and hears, in big print and out loud, what it is and what to do: a bill and its due date, or a scam. The family gets a Monday summary.</td>
-<td width="68"><a href="https://postalbuddy.lunarwerx.com/" title="Postal Buddy website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 <tr>
 <td width="93" height="90" align="center"><a href="https://www.accap.co/"><img src="icons/accap.png" width="65" alt="Accredited Capitalists"></a></td>
