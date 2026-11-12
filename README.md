@@ -271,7 +271,7 @@ Connections is our relationship workspace. The groups beside it are their own or
 <tr>
 <td width="93" height="90" align="center"><a href="https://www.accap.co/"><img src="icons/accap.png" width="65" alt="Accredited Capitalists"></a></td>
 <td><b>Accredited Capitalists</b></td>
-<td>Houston's private monthly evening for accredited investors, founders and family offices. The club is its own company: we built its member app, and its sign-in, events and payments run on Connections.</td>
+<td>Houston's private monthly evening for accredited investors, founders and family offices. The club is its own company; its sign-in, events and payments run on Connections.</td>
 <td width="68"><a href="https://www.accap.co/" title="Accredited Capitalists website"><img src="icons/_site.svg" width="17" alt="Website"></a></td>
 </tr>
 </table>
